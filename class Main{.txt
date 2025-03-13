@@ -1,0 +1,9 @@
+class Main{
+    public static void main(String arg[]){
+        int a1=50,a2=60,a3=70;
+        float max=300;
+        int total=a1+a2+a3;
+        float percentage=total/max*100;
+        System.out.println(percentage);
+    }
+}
